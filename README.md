@@ -1,6 +1,6 @@
 # Lumi Aurora
 
-Also known as Yuki.
+Also known as 0x11a.
 
 I am an 18-year-old developer from Finland who is into computer science, cybersecurity, low-level systems, networking, and software development.
 
