@@ -1,10 +1,16 @@
-# Lumi Aurora
+<p align="center">
+  <img src="./assets/header-banner.svg" width="100%" alt="Lumi Aurora banner" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/aka-0x11a-f6b6d8?style=for-the-badge" alt="aka 0x11a" />
   <img src="https://img.shields.io/badge/from-Finland-d8c4ff?style=for-the-badge" alt="from Finland" />
   <img src="https://img.shields.io/badge/focus-cryptography-ffcce6?style=for-the-badge" alt="focus cryptography" />
   <img src="https://img.shields.io/badge/CTFs-0xfun-eecbff?style=for-the-badge" alt="CTFs with 0xfun" />
+</p>
+
+<p align="center">
+  <img src="./assets/sparkle-divider.svg" width="100%" alt="Sparkle divider" />
 </p>
 
 <p align="center">
@@ -25,12 +31,21 @@
 - `CryptoHack`: rank `#84` globally and `#1` in Finland
 - main category is `crypto`, but I also play other categories too
 - I like making open source projects, experiments, tools, and other fun stuff
+- discord: `0x11a`
+
+<p align="center">
+  <img src="./assets/sparkle-divider.svg" width="100%" alt="Sparkle divider" />
+</p>
 
 ## Little Things I Like
 
 - cryptography, pwning weird bugs, and solving challenge sets
 - open source projects that are useful, silly, or both
 - low-level systems, networking, and random technical rabbit holes
+
+<p align="center">
+  <img src="./assets/sparkle-divider.svg" width="100%" alt="Sparkle divider" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lumiaurora&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=f6b6d8&icon_color=d8a7ff&text_color=f8d7e8&border_color=f6b6d8" alt="GitHub stats" />

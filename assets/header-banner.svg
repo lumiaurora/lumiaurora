@@ -1,0 +1,16 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Lumi Aurora banner</title>
+  <desc id="desc">A kawaii pastel banner for the Lumi Aurora GitHub profile.</desc>
+  <rect width="1200" height="260" rx="36" fill="#FFF7FB"/>
+  <circle cx="128" cy="72" r="18" fill="#F6B6D8"/>
+  <circle cx="1082" cy="62" r="14" fill="#E3C3FF"/>
+  <circle cx="1120" cy="95" r="8" fill="#FFD6EA"/>
+  <path d="M80 188C112 136 188 132 228 174C250 130 332 126 370 176C412 140 474 138 510 183C548 138 628 134 664 182C704 132 788 132 818 186C860 146 932 148 966 190C998 154 1060 156 1094 196V224H80V188Z" fill="#FFE4F0"/>
+  <path d="M84 194C114 144 186 140 224 180C248 138 330 134 366 184C410 148 474 148 510 190C550 146 628 142 662 190C704 142 786 142 814 194C858 154 930 156 964 198C1000 162 1060 164 1090 202" stroke="#E6AFCC" stroke-width="6" stroke-linecap="round"/>
+  <text x="600" y="108" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="54" font-weight="700" fill="#C873A3">Lumi Aurora</text>
+  <text x="600" y="152" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="24" fill="#B57AC7">crypto . ctf . open source . cute code</text>
+  <path d="M228 80C238 64 261 65 269 82C277 65 300 64 310 80C319 94 310 111 269 136C228 111 219 94 228 80Z" fill="#F6B6D8"/>
+  <path d="M891 92C899 80 915 80 921 93C927 80 943 80 951 92C957 101 952 114 921 132C890 114 885 101 891 92Z" fill="#E3C3FF"/>
+  <path d="M158 46L162 57H174L164 63L168 74L158 67L148 74L152 63L142 57H154L158 46Z" fill="#FFD166"/>
+  <path d="M1042 42L1046 53H1058L1048 59L1052 70L1042 63L1032 70L1036 59L1026 53H1038L1042 42Z" fill="#FFD166"/>
+</svg>
