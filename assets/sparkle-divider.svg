@@ -1,9 +1,9 @@
-<svg width="1200" height="48" viewBox="0 0 1200 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="64" viewBox="0 0 1200 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Sparkle divider</title>
   <desc id="desc">A pastel divider with stars and hearts.</desc>
-  <path d="M72 24H510" stroke="#F0BED6" stroke-width="4" stroke-linecap="round"/>
-  <path d="M690 24H1128" stroke="#DCC2FA" stroke-width="4" stroke-linecap="round"/>
-  <path d="M560 20C566 10 580 11 585 21C590 11 604 10 610 20C615 28 610 38 585 54C560 38 555 28 560 20Z" fill="#F6B6D8"/>
-  <path d="M635 8L639 18H649L641 23L644 33L635 27L626 33L629 23L621 18H631L635 8Z" fill="#FFD166"/>
-  <path d="M665 18L668 26H676L669 30L672 38L665 33L658 38L661 30L654 26H662L665 18Z" fill="#E3C3FF"/>
+  <path d="M72 28H510" stroke="#F0BED6" stroke-width="4" stroke-linecap="round"/>
+  <path d="M690 28H1128" stroke="#DCC2FA" stroke-width="4" stroke-linecap="round"/>
+  <path d="M560 24C566 14 580 15 585 25C590 15 604 14 610 24C615 32 610 42 585 58C560 42 555 32 560 24Z" fill="#F6B6D8"/>
+  <path d="M635 12L639 22H649L641 27L644 37L635 31L626 37L629 27L621 22H631L635 12Z" fill="#FFD166"/>
+  <path d="M665 22L668 30H676L669 34L672 42L665 37L658 42L661 34L654 30H662L665 22Z" fill="#E3C3FF"/>
 </svg>
