@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/sparkle-divider.svg" width="100%" alt="Sparkle divider" />
+  <img src="./assets/sparkle-divider-v2.svg" width="100%" alt="Sparkle divider" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 - discord: `0x11a`
 
 <p align="center">
-  <img src="./assets/sparkle-divider.svg" width="100%" alt="Sparkle divider" />
+  <img src="./assets/sparkle-divider-v2.svg" width="100%" alt="Sparkle divider" />
 </p>
 
 ## Little Things I Like
@@ -44,7 +44,7 @@
 - low-level systems, networking, and random technical rabbit holes
 
 <p align="center">
-  <img src="./assets/sparkle-divider.svg" width="100%" alt="Sparkle divider" />
+  <img src="./assets/sparkle-divider-v2.svg" width="100%" alt="Sparkle divider" />
 </p>
 
 <p align="center">
