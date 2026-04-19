@@ -1,0 +1,25 @@
+<svg width="320" height="220" viewBox="0 0 320 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Virtual cat</title>
+  <desc id="desc">A cute pink cat sitting on a cloud.</desc>
+  <rect width="320" height="220" rx="24" fill="#FFF7FB"/>
+  <ellipse cx="160" cy="183" rx="92" ry="18" fill="#F7D7E7"/>
+  <path d="M82 59L109 33L122 72" fill="#FFD7E8" stroke="#D993B7" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M198 72L211 33L238 59" fill="#FFD7E8" stroke="#D993B7" stroke-width="5" stroke-linejoin="round"/>
+  <rect x="88" y="56" width="144" height="109" rx="54.5" fill="#FFE3EF" stroke="#D993B7" stroke-width="5"/>
+  <ellipse cx="126" cy="113" rx="10" ry="13" fill="#3F2D39"/>
+  <ellipse cx="194" cy="113" rx="10" ry="13" fill="#3F2D39"/>
+  <ellipse cx="123" cy="110" rx="3" ry="4" fill="#FFF"/>
+  <ellipse cx="191" cy="110" rx="3" ry="4" fill="#FFF"/>
+  <path d="M160 123L169 136H151L160 123Z" fill="#F4A1C4"/>
+  <path d="M149 142C154 148 166 148 171 142" stroke="#C46B99" stroke-width="5" stroke-linecap="round"/>
+  <path d="M110 130H73" stroke="#D993B7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M110 143H67" stroke="#D993B7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M210 130H247" stroke="#D993B7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M210 143H253" stroke="#D993B7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M116 168C116 183 127 193 142 193H182C197 193 208 183 208 168V161H116V168Z" fill="#FFD7E8" stroke="#D993B7" stroke-width="5"/>
+  <path d="M219 166C238 164 253 173 256 188C258 199 251 208 239 207C226 206 218 194 218 181V166H219Z" fill="#FFE3EF" stroke="#D993B7" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="83" cy="43" r="8" fill="#F6B6D8"/>
+  <circle cx="245" cy="38" r="6" fill="#E3C3FF"/>
+  <circle cx="259" cy="55" r="4" fill="#F9CCE1"/>
+  <path d="M54 82C61 71 76 72 81 84C86 72 101 71 108 82C114 92 108 104 81 120C54 104 48 92 54 82Z" fill="#F6B6D8"/>
+</svg>

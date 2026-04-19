@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/virtual-cat.svg" width="220" alt="Virtual cat" />
+  <img src="./assets/virtual-cat-v2.svg" width="220" alt="Virtual cat" />
 </p>
 
 ## About Me
